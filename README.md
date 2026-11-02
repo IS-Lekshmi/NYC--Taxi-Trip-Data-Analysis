@@ -8,6 +8,8 @@ The project uses Python for data cleaning and exploratory data analysis, MySQL f
 
 The primary objective is to transform raw taxi trip data into meaningful insights that help understand trip patterns, identify high-demand locations, analyze revenue performance, and support data-driven operational decisions.
 
+Dataset Link: https://www.kaggle.com/datasets/neilclack/nyc-taxi-trip-data-google-public-data
+
 ---
 
 ## 🎯 Business Objectives
